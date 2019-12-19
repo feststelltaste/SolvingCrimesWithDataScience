@@ -3,6 +3,7 @@
 pandas
 xlrd
 matplotlib
+scikit-learn
 
 # add extension for presentation
 RISE
